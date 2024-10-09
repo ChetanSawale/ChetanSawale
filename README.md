@@ -1,34 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gChetanSawaledient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://ChetanSawalew.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm ChetanSawaleFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=FiChetanSawale+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Technical TChetanSawaleiner | Coder | Tech Enthusiast
+  Technical Trainer | Coder | Tech Enthusiast
 </p>
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@StudybChetanSawaleinzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40StudybChetanSawaleinzofficial&subtitle=@StudybChetanSawaleinzofficial&size=square" alt="StudybChetanSawaleinz Official">
+      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagChetanSawalem.com/mr_.ChetanSawalefik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagChetanSawalem.com%2Fmr_.ChetanSawalefik%2F&subtitle=@mr_.ChetanSawalefik&size=square" alt="ChetanSawaleFIK SHAH">
+      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/ChetanSawalefik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FChetanSawalefik-shah-179875209%2F&subtitle=@ChetanSawalefik+Shah&size=square" alt="ChetanSawaleFIK SHAH">
+      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
       </a>
     </td>
    <td align="center">
@@ -52,36 +52,36 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven tChetanSawaleck record of driving innovation, I am committed to leveChetanSawaleging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=ChetanSawale&theme=highcontChetanSawalest&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=ChetanSawale&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-gChetanSawaleph.vercel.app/gChetanSawaleph?username=ChetanSawale&custom_title=ChetanSawale's%20GitHub%20Activity%20GChetanSawaleph&hide_border=true&border_ChetanSawaledius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity GChetanSawaleph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSawale&custom_title=ChetanSawale's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSawale&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontChetanSawalest" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSawale&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanSawale&theme=highcontChetanSawalest&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanSawale&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanSawale&theme=highcontChetanSawalest&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanSawale&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChetanSawale&hide_border=true&border_ChetanSawaledius=15&show_icons=true&theme=highcontChetanSawalest" alt="ChetanSawale's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ChetanSawale&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="ChetanSawale's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanSawale&theme=highcontChetanSawalest&hide_border=true" alt="ChetanSawale's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanSawale&theme=highcontrast&hide_border=true" alt="ChetanSawale's Profile Details">
 
 ### Top Repositories
 <div align="center">
@@ -89,24 +89,24 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <td>
         <a href="https://github.com/ChetanSawale/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=fast-gemini-nano&theme=highcontChetanSawalest&hide_border=true&border_ChetanSawaledius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/ChetanSawale/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=Weather-3d-ai-app&theme=highcontChetanSawalest&hide_border=true&border_ChetanSawaledius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/ChetanSawale/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=moviedjangoai&theme=highcontChetanSawalest&hide_border=true&border_ChetanSawaledius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/ChetanSawale/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=speech-to-text&theme=highcontChetanSawalest&hide_border=true&border_ChetanSawaledius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -122,11 +122,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?ChetanSawalew=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?ChetanSawalew=true" width="10" />
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/ChetanSawale?panels=userstatistics,toprepositories,toplanguages,commitgChetanSawaleph" alt="ChetanSawale's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/ChetanSawale?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="ChetanSawale's GitHub Stats">
 
   <img src="https://github-readme-bento.vercel.app/stats/ChetanSawale?theme=dark" alt="ChetanSawale's GitHub Stats">
 </details>
@@ -138,10 +138,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <!-- [![Forkers repo roster for @ChetanSawale/ChetanSawale](https://reporoster.com/forks/dark/ChetanSawale/ChetanSawale)](https://github.com/ChetanSawale/ChetanSawale/network/members)-->
 
-<!-- [![RepogChetanSawalephy](https://reporoster.com/stars/dark/ChetanSawale/ChetanSawale)](https://github.com/ChetanSawale/ChetanSawale)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/ChetanSawale/ChetanSawale)](https://github.com/ChetanSawale/ChetanSawale)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?ChetanSawalew=true" width="10" />&nbsp;&nbsp;GitHub Star History for ChetanSawale&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?ChetanSawalew=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for ChetanSawale&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
   <a href="https://star-history.com/#ChetanSawale/ChetanSawale&Date">
@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ChetanSawale&no-fChetanSawaleme=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChetanSawale&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -165,12 +165,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagChetanSawalem.com/mr_.ChetanSawalefik/" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/instagChetanSawalem-new.png" alt="InstagChetanSawalem"/>
+    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagChetanSawalem.com/mr_.ChetanSawalefik/" target="_blank" style="color: #e4405f; text-decoChetanSawaletion: none; font-weight: bold;">
-        Follow Me on InstagChetanSawalem
+      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+        Follow Me on Instagram
       </a>
     </h3>
   </div>
@@ -178,8 +178,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <td align="center" style="border: none;">
         <div>
-          <img src="https://img.shields.io/badge/InstagChetanSawalem-101%20posts-e4405f?style=flat-square&logo=instagChetanSawalem" alt="InstagChetanSawalem Posts">
-          <img src="https://img.shields.io/badge/InstagChetanSawalem-1865%20followers-e4405f?style=flat-square&logo=instagChetanSawalem" alt="InstagChetanSawalem Followers">
+          <img src="https://img.shields.io/badge/Instagram-101%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-1865%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
     </tr>
@@ -218,7 +218,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <!-- Discord Presence Column -->
     <!-- <td align="center" style="border: none;">
       <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnChetanSawaled.dev/api/424279823817375746" alt="Discord Presence">
+        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
       </a>
     </td>
   </tr>
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/ChetanSawaleh2272?border=0&ChetanSawaledius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/ChetanSawaleh2272?border=0&radius=20"/>
 </p>
 
 
@@ -241,7 +241,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">Web Development</h3>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="8" align="center" style="color: white;">Frontend</th>
@@ -263,19 +263,19 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </td>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-geneChetanSawaletor.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>React
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-geneChetanSawaletor.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         </a>
         <br>TypeScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-geneChetanSawaletor.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
@@ -305,7 +305,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Backend</th>
@@ -317,7 +317,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-geneChetanSawaletor.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
@@ -331,7 +331,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Database</th>
@@ -340,7 +340,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-geneChetanSawaletor.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
@@ -359,19 +359,19 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">Cloud Computing & DevOps</h3>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & OrchestChetanSawaletion</th>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-geneChetanSawaletor.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-geneChetanSawaletor.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
       </td>
       <td align="center" style="border: none;">
         <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
@@ -385,7 +385,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
@@ -400,7 +400,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-geneChetanSawaletor.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
     </tr>
   </tbody>
@@ -408,19 +408,19 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="2" align="center" style="color: white;">InfChetanSawalestructure as Code</th>
+      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=terChetanSawaleform" alt="TerChetanSawaleform" width="50" height="50"/><br>TerChetanSawaleform
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
       </td>
         <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="TerChetanSawaleform" width="50" height="50"/><br>Ansible
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
        </td>
     </tr>
   </tbody>
@@ -429,16 +429,16 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & LibChetanSawaleries</th>
+      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-geneChetanSawaletor.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
@@ -459,10 +459,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="color: white;">FChetanSawalemeworks & Tools</th>
+      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
     </tr>
   </thead>
   <tbody>
@@ -484,7 +484,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
- <table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="6" align="center" style="color: white;">AI Tools</th>
@@ -496,7 +496,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
       </td>
        <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/bChetanSawalends-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
@@ -509,7 +509,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
       </td>
       <td align="center" style="border: none;">
-        <img src="https://asset.bChetanSawalendfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
       </td>
     </tr>
   </tbody>
@@ -519,26 +519,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3 align="center">Streaming & Video Editing</h3>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="2" align="center" ## Hi there 👋
-
-<!--
-**ChetanSawale/ChetanSawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaboChetanSawalete on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-style="color: white;">Streaming Platforms</th>
+      <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
     </tr>
   </thead>
   <tbody>
@@ -555,7 +539,7 @@ style="color: white;">Streaming Platforms</th>
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th align="center" style="color: white;">Streaming Tools</th>
@@ -572,7 +556,7 @@ style="color: white;">Streaming Platforms</th>
 </div>
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-ChetanSawaledius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="3" align="center" style="color: white;">Video Editing Tools</th>
@@ -607,7 +591,7 @@ style="color: white;">Streaming Platforms</th>
       </th>
       <th align="center">
         <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-          <img src="https://ChetanSawalew.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
+          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
         </a>
       </th>
       <th align="center">
@@ -617,7 +601,7 @@ style="color: white;">Streaming Platforms</th>
       </th>
       <th align="center">
         <a href="https://ko-fi.com/M4M410M65J" target="_blank">
-          <img height='36' style='border:0px;height:36px;' src='https://stoChetanSawalege.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+          <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
         </a>
       </th>
     </tr>
@@ -632,7 +616,7 @@ style="color: white;">Streaming Platforms</th>
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
       </td>
       <td align="center">
-        <img src="https://stoChetanSawalege.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
+        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
       </td>
     </tr>
   </table>
@@ -664,10 +648,10 @@ style="color: white;">Streaming Platforms</th>
 <h3>
 <div align="center">
   
-⭐️ From [ChetanSawale](https://github.com/ChetanSawale) | Let's innovate together! <img src='https://ChetanSawalew.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [ChetanSawale](https://github.com/ChetanSawale) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gChetanSawaledient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
