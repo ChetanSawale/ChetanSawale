@@ -22,8 +22,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Chetan Sawale">
+      <a href="(https://www.instagram.com/sawalechetan102/)" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2FChetan Sawale%2F&subtitle=Chetan Sawale&size=square" alt="Chetan Sawale">
       </a>
     </td>
     <td align="center">
