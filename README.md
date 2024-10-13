@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="(https://www.instagram.com/sawalechetan102/)" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2FChetan Sawale%2F&subtitle=Chetan Sawale&size=square" alt="Chetan Sawale">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2FChetanSawale%2F&subtitle=ChetanSawale&size=square" alt="Chetan Sawale">
       </a>
     </td>
     <td align="center">
