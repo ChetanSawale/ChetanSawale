@@ -120,6 +120,236 @@
 
 </p>
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <i>A complete view of my GitHub activity, contributions, languages and repositories.</i>
+</p>
+
+<!-- ==================== STREAK ==================== -->
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<p align="center">
+  <a href="https://github.com/ChetanSawale">
+    <img
+      src="https://streak-stats.demolab.com/?user=ChetanSawale&theme=highcontrast&hide_border=true&border_radius=15"
+      alt="Chetan Sawale GitHub Streak"
+    />
+  </a>
+</p>
+
+<!-- ==================== MAIN STATS ==================== -->
+
+<h3 align="center">📈 GitHub Overview</h3>
+
+<p align="center">
+  <a href="https://github.com/ChetanSawale">
+    <img
+      height="190"
+      src="https://github-readme-stats.vercel.app/api?username=ChetanSawale&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=highcontrast&hide_border=true&border_radius=15"
+      alt="Chetan Sawale GitHub Statistics"
+    />
+  </a>
+
+  <a href="https://github.com/ChetanSawale">
+    <img
+      height="190"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSawale&layout=compact&langs_count=10&hide=html&theme=highcontrast&hide_border=true&border_radius=15"
+      alt="Chetan Sawale Top Languages"
+    />
+  </a>
+</p>
+
+<!-- ==================== LANGUAGE BREAKDOWN ==================== -->
+
+<h3 align="center">💻 Language Breakdown</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChetanSawale&theme=highcontrast"
+alt="Repositories Per Language"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChetanSawale&theme=highcontrast"
+alt="Most Commit Language"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<!-- ==================== PROFILE DETAILS ==================== -->
+
+<h3 align="center">📋 Profile Details</h3>
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChetanSawale&theme=highcontrast"
+alt="Chetan Sawale Profile Details"
+/>
+
+</p>
+
+<!-- ==================== ACTIVITY GRAPH ==================== -->
+
+<h3 align="center">📅 GitHub Activity Graph</h3>
+
+<p align="center">
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSawale&custom_title=ChetanSawale%27s%20GitHub%20Activity&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true"
+alt="Chetan Sawale GitHub Activity Graph"
+/>
+
+</p>
+
+<!-- ==================== CONTRIBUTION CHART ==================== -->
+
+<h3 align="center">🟩 GitHub Contribution Calendar</h3>
+
+<p align="center">
+
+<a href="https://github.com/ChetanSawale">
+
+<img
+src="https://ghchart.rshah.org/ChetanSawale"
+alt="Chetan Sawale GitHub Contribution Chart"
+/>
+
+</a>
+
+</p>
+
+<!-- ==================== TROPHIES ==================== -->
+
+<h3 align="center">🏆 GitHub Profile Trophies</h3>
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=ChetanSawale&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
+alt="Chetan Sawale GitHub Trophies"
+/>
+
+</p>
+
+<!-- ==================== TOP REPOSITORIES ==================== -->
+
+<h3 align="center">⭐ Featured Repositories</h3>
+
+<div align="center">
+
+<a href="https://github.com/ChetanSawale/fast-gemini-nano">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15"
+    alt="fast-gemini-nano"
+  />
+</a>
+
+<a href="https://github.com/ChetanSawale/Weather-3d-ai-app">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15"
+    alt="Weather 3D AI App"
+  />
+</a>
+
+<br>
+
+<a href="https://github.com/ChetanSawale/moviedjangoai">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15"
+    alt="Movie Django AI"
+  />
+</a>
+
+<a href="https://github.com/ChetanSawale/speech-to-text">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15"
+    alt="Speech to Text"
+  />
+</a>
+
+</div>
+
+<!-- ==================== REPOSITORY ANALYTICS ==================== -->
+
+<h3 align="center">📊 Repository Analytics</h3>
+
+<p align="center">
+
+<img
+width="95%"
+src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg"
+alt="Repobeats Repository Analytics"
+/>
+
+</p>
+
+<!-- ==================== STAR HISTORY ==================== -->
+
+<details>
+<summary>
+<b>⭐ GitHub Star History</b>
+</summary>
+
+<br>
+
+<p align="center">
+
+<a href="https://star-history.com/#ChetanSawale/ChetanSawale&Date">
+
+<img
+src="https://api.star-history.com/svg?repos=ChetanSawale/ChetanSawale&type=Date&theme=dark"
+alt="ChetanSawale Star History"
+/>
+
+</a>
+
+</p>
+
+</details>
+
+<!-- ==================== EXTRA GITHUB ANALYTICS ==================== -->
+
+<details>
+<summary>
+<b>⚡ Detailed GitHub Analytics</b>
+</summary>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://myreadme.vercel.app/api/embed/ChetanSawale?panels=userstatistics,toprepositories,toplanguages,commitgraph"
+alt="ChetanSawale Detailed GitHub Analytics"
+/>
+
+</p>
+
+</details>
+
 ### Networking
 
 ```text
