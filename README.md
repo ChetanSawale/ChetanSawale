@@ -1,247 +1,134 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header" width="100%">
 
-<h1 align="center">Hi 👋, I'm Chetan Sawale</h1>
-
-<h3 align="center">
-Computer Engineer • DevOps & Cloud Enthusiast • Full-Stack Developer
-</h3>
+<h1 align="center">
+  Hello 👋, I'm Chetan Sawale
+</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Computer+Engineer;Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;Linux+Enthusiast;AI+%26+ML+Enthusiast" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <b>Technical Trainer | Developer | Linux & DevOps Learner | Tech Enthusiast</b>
+</p>
+
+<p align="center">
+
   <a href="https://github.com/ChetanSawale">
-    <img src="https://img.shields.io/badge/GitHub-ChetanSawale-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ChetanSawale-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
+
   <a href="https://www.linkedin.com/in/chetan-sawale-sawale-0a3917321/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Sawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Sawale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:ChetanSawaleh3262@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
   <a href="https://www.instagram.com/sawalechetan102/">
-    <img src="https://img.shields.io/badge/Instagram-ChetanSawale-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-ChetanSawale-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChetanSawale&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Engineer and Full-Stack Developer** interested in building, deploying, and maintaining real-world applications.
-
-My current focus is on becoming stronger in **Linux, Networking, DevOps, Cloud Computing, and Automation**, while continuing to build full-stack applications.
-
-I enjoy learning by building practical projects rather than only studying theory.
-
-### 🔭 Currently Working On
-
-- 🐧 Linux system administration and Bash scripting
-- 🌐 Networking fundamentals for DevOps
-- 🐳 Docker and containerized applications
-- 🔄 CI/CD and deployment workflows
-- ☁️ Cloud and infrastructure fundamentals
-- 💻 Full-stack applications with modern web technologies
-- 🤖 Exploring AI-powered applications
-
-### 🎯 Current Goal
-
-> Build strong practical DevOps fundamentals by deploying, automating, monitoring, and maintaining real applications.
-
----
-
-# 🛠️ Skills & Technologies
-
-### 🐧 DevOps & Linux
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" />
-</p>
-
-**Currently learning / strengthening:**
-
-`Linux` `Bash` `Git` `GitHub` `Networking` `Docker` `CI/CD` `Cloud` `System Administration`
-
----
-
-### ☁️ Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
-</p>
-
-`AWS` `Azure` `GCP` `Terraform` `Ansible`
-
-> Learning these technologies progressively through hands-on projects.
-
----
-
-### 🌐 Full-Stack Development
-
-#### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
-</p>
-
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
-
-#### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-</p>
-
-`Node.js` `Express.js` `Django` `Flask`
-
-#### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,neo4j" />
-</p>
-
-`MongoDB` `MySQL` `PostgreSQL` `Neo4j`
-
----
-
-### 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-`Python` `NumPy` `Pandas` `TensorFlow` `PyTorch`
-
-**AI Tools & Frameworks**
-
-`ChatGPT` `Google Gemini` `Claude` `Hugging Face` `LangChain` `Ollama`
-
----
-
-# 🚀 Featured Projects
-
-## 🏨 Hotel Booking Application
-
-A full-stack hotel booking application built to practice real-world application architecture.
-
-**Tech Stack**
-
-`Frontend` `Backend` `MongoDB` `JWT Authentication`
-
-**Current Features**
-
-- User registration and login
-- JWT-based authentication
-- Protected routes
-- MongoDB database
-- Hotel booking workflow
-- Frontend + backend architecture
-
-**Currently improving**
-
-- OAuth authentication
-- Deployment
-- Dockerization
-- CI/CD
-- Production architecture
-
----
-
-## 🐧 Linux Automation
-
-Hands-on Linux automation projects focused on system administration and scripting.
-
-**Topics**
-
-`Linux` `Bash` `Cron` `Systemd` `File Management` `Logs` `Automation`
-
-Projects include automating Linux tasks and experimenting with system-level workflows using WSL.
-
----
-
-## 📚 ShikshaBox
-
-An educational platform project focused on providing learning resources through a web application.
-
-**Focus**
-
-`Web Development` `Database` `Application Architecture`
-
----
-
-## 🤖 AI Projects
-
-A collection of projects exploring AI-powered applications and integrations.
-
-Examples include:
-
-- Gemini-based applications
-- AI weather application
-- Speech-to-text
-- AI-powered movie application
-
----
-
-# 📊 GitHub Statistics
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=ChetanSawale"
-      alt="Chetan Sawale GitHub Streak"
-    />
+  <a href="mailto:ChetanSawaleh3262@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+
 </p>
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ChetanSawale&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="Chetan Sawale GitHub Stats"
-  />
-</p>
-
-### 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSawale&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Chetan Sawale Top Languages"
-  />
-</p>
-
-### 📅 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanSawale&theme=tokyo-night&hide_border=true"
-    alt="Chetan Sawale GitHub Activity"
-  />
+  <img src="https://komarev.com/ghpvc/?username=ChetanSawale&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views">
 </p>
 
 ---
 
-# 🧰 DevOps Learning Journey
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I'm a Computer Engineer and Full-Stack Developer passionate about
+  <b>software development, Linux, DevOps, Cloud Computing and automation.</b>
+</p>
+
+<p align="center">
+  I enjoy learning by building practical projects and understanding how
+  applications are developed, deployed, automated and maintained.
+</p>
+
+<p align="center">
+  My current focus is strengthening my skills in
+  <b>Linux, Networking, Git, Bash, Docker, CI/CD, Cloud and DevOps.</b>
+</p>
+
+---
+
+<h2 align="center">🎯 What I'm Currently Learning</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="150">
+<h3>🐧</h3>
+<b>Linux</b>
+</td>
+
+<td align="center" width="150">
+<h3>🌐</h3>
+<b>Networking</b>
+</td>
+
+<td align="center" width="150">
+<h3>🐳</h3>
+<b>Docker</b>
+</td>
+
+<td align="center" width="150">
+<h3>🔄</h3>
+<b>CI/CD</b>
+</td>
+
+<td align="center" width="150">
+<h3>☁️</h3>
+<b>Cloud</b>
+</td>
+
+<td align="center" width="150">
+<h3>⚙️</h3>
+<b>Automation</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🐧 Linux, DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,terraform,ansible">
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white">
+
+</p>
+
+### Networking
 
 ```text
-Linux
-  │
-  ├── Bash & Shell Scripting
-  │
-  ├── Networking
-  │
-  ├── Git & GitHub
-  │
-  ├── Docker
-  │
-  ├── CI/CD
-  │
-  ├── Cloud
-  │
-  ├── Infrastructure as Code
-  │
-  └── Kubernetes
+TCP/IP
+DNS
+HTTP / HTTPS
+SSH
+Ports
+Routing
+Firewalls
+Linux Networking
+Network Troubleshooting
