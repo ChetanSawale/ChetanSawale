@@ -3,10 +3,10 @@
 <h1 align="center">Hello, I'm Chetan Sawale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;DevOps+Engineer;Data+Analyst;Cloud+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;DevOps+Engineer;Cloud+Engineer;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">Reports Executive @ Hitachi Cash Management Services | Transitioning into DevOps & Cloud Engineering | Data Analyst</p>
+<p align="center">Aspiring DevOps & Cloud Engineer | Linux Enthusiast</p>
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-Currently working as a Reports Executive at Hitachi Cash Management Services while actively transitioning into DevOps and Cloud Engineering. Engineering graduate (B.Tech, Computer Engineering, 2026) with hands-on experience in Linux, AWS, Docker, Git, GitHub, Bash scripting, networking, and server administration. Building practical skills through Linux server configuration, containerization, Docker Compose, cloud deployment, and troubleshooting projects. Also working as a Data Analyst — SQL, Python, Power BI, Excel — with end-to-end analytics projects. My goal is to move into an entry-level DevOps/Cloud role and grow toward expertise in CI/CD, infrastructure automation, cloud platforms, monitoring, and Kubernetes.
+Computer Engineering graduate (B.Tech, 2026) focused on DevOps and Cloud Engineering. Hands-on with Linux system administration, AWS, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana, Bash scripting, Git/GitHub, and networking. Building real-world skills through Linux server monitoring labs, containerized deployments, and infrastructure automation projects. Working toward expertise in CI/CD, infrastructure as code, cloud platforms, and observability.
 </p>
 
 <h3 align="center">Git Stats</h3>
@@ -51,8 +51,8 @@ Currently working as a Reports Executive at Hitachi Cash Management Services whi
         </a>
       </td>
       <td>
-        <a href="https://github.com/ChetanSawale/uk-online-retail-analytics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=uk-online-retail-analytics&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/ChetanSawale/linux-monitoring-lab">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=linux-monitoring-lab&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -63,8 +63,8 @@ Currently working as a Reports Executive at Hitachi Cash Management Services whi
         </a>
       </td>
       <td>
-        <a href="https://github.com/ChetanSawale/eksudhaar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=eksudhaar&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/ChetanSawale/linux-server-health-check">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=linux-server-health-check&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -81,30 +81,10 @@ Currently working as a Reports Executive at Hitachi Cash Management Services whi
 
 <h1 align="center">🛠️ Tech Stack</h1>
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">DevOps & Linux</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,prometheus,grafana,git,bash" alt="DevOps tools" />
-</div>
-
-<h3 align="center">Data Analytics</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb" alt="Data tools" />
-  <br><br>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-</div>
-
-<h3 align="center">Web Development</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,php" alt="Web dev tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,ansible,prometheus,grafana,git,bash" alt="DevOps and Linux tools" />
 </div>
 
 <br>
@@ -115,8 +95,6 @@ Currently working as a Reports Executive at Hitachi Cash Management Services whi
   <a href="mailto:sawalechetan102@gmail.com">sawalechetan102@gmail.com</a>
   ·
   <a href="https://www.linkedin.com/in/chetan-sawale-577b63438">LinkedIn</a>
-  ·
-  <a href="https://www.linkedin.com/in/chetan-sawale-b86379435">LinkedIn (Data Analyst)</a>
 </div>
 
 <br>
