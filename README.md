@@ -95,6 +95,8 @@ Computer Engineering graduate (B.Tech, 2026) focused on DevOps and Cloud Enginee
   <a href="mailto:sawalechetan102@gmail.com">sawalechetan102@gmail.com</a>
   ·
   <a href="https://www.linkedin.com/in/chetan-sawale-577b63438">LinkedIn</a>
+  ·
+  <a href="https://www.linkedin.com/in/chetan-sawale-0a3917321">LinkedIn (Full Stack)</a>
 </div>
 
 <br>
