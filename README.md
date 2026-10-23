@@ -1,4 +1,10 @@
-<h1 align="center">Chetan Sawale</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<h1 align="center">Hello, I'm Chetan Sawale</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Aspiring+DevOps+Engineer;Cloud+Engineer;Linux+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center"><strong>Aspiring Cloud / DevOps Engineer — Linux • AWS • Docker • Prometheus • Grafana</strong></p>
 
@@ -7,12 +13,17 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-sawale-577b63438)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetanSawale)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chetansawale.github.io/devops-portfolio-v2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawalechetan102@gmail.com)
 
 </div>
 
-## About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChetanSawale&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+</p>
+
+## 🚀 About Me
 
 Entry-level Cloud/DevOps professional with hands-on experience in Linux server administration, Bash scripting and automation, Git/GitHub, Docker containerization, AWS EC2, networking, troubleshooting, and cloud monitoring (Prometheus / Grafana / Alertmanager).
 
@@ -20,21 +31,68 @@ I build real, working projects — a Linux homelab monitoring stack with 7 valid
 
 **Open to:** Cloud Engineer · DevOps Engineer / Intern · Linux System Administrator · Server / Support Engineer roles — Mumbai, Pune, remote, and relocation across India. Notice period: 15 days.
 
-## Tech Stack — exactly what's on my CV
+<h1 align="center">🛠️ Tech Stack</h1>
 
-**Linux & Shell:** Linux, Ubuntu, WSL, Bash, shell scripting, file permissions & ownership, users/groups, processes, disk usage, grep / find / awk / sed, pipes & redirection
+<h3 align="center">DevOps, Cloud & Linux</h3>
 
-**DevOps & Cloud:** Docker, Dockerfiles, Docker Compose, Git, GitHub, CI/CD fundamentals (Jenkins declarative pipelines), AWS EC2, SSH, deployment concepts
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,prometheus,grafana,jenkins,git,github,bash" alt="DevOps, cloud and Linux tools" />
+</div>
 
-**Monitoring:** Prometheus, Grafana, Alertmanager
+<h3 align="center">Backend & Tools</h3>
 
-**Networking:** TCP/IP, IP addressing, ports, DNS, HTTP/HTTPS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,vscode" alt="Backend and tools" />
+</div>
 
-**Backend (working knowledge):** JavaScript, Node.js, Express.js, REST APIs, JWT authentication, MongoDB
+<p align="center">
+<strong>Linux & Shell:</strong> Linux, Ubuntu, WSL, Bash, shell scripting, file permissions & ownership, users/groups, processes, disk usage, grep / find / awk / sed, pipes & redirection<br>
+<strong>DevOps & Cloud:</strong> Docker, Dockerfiles, Docker Compose, Git, GitHub, CI/CD fundamentals (Jenkins declarative pipelines), AWS EC2, SSH, deployment concepts<br>
+<strong>Monitoring:</strong> Prometheus, Grafana, Alertmanager<br>
+<strong>Networking:</strong> TCP/IP, IP addressing, ports, DNS, HTTP/HTTPS<br>
+<strong>Backend (working knowledge):</strong> JavaScript, Node.js, Express.js, REST APIs, JWT authentication, MongoDB
+</p>
 
-**Tools:** VS Code, Windows Terminal, Docker Desktop
+<h3 align="center">Git Stats</h3>
 
-## Featured Projects
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ChetanSawale&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChetanSawale&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="ChetanSawale's GitHub stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanSawale&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+</div>
+
+## 📌 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/ChetanSawale/linux-monitoring-lab">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=linux-monitoring-lab&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ChetanSawale/linux-server-health-check">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=linux-server-health-check&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ChetanSawale/devops-mcp-server">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=devops-mcp-server&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ChetanSawale/student_task_manager_devpro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSawale&repo=student_task_manager_devpro&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -47,16 +105,44 @@ I build real, working projects — a Linux homelab monitoring stack with 7 valid
 
 **Also on this GitHub (data analytics track):** [bank-telemarketing-analysis](https://github.com/ChetanSawale/bank-telemarketing-analysis) · [atm-cash-demand-forecasting](https://github.com/ChetanSawale/atm-cash-demand-forecasting) · [uk-online-retail-analytics](https://github.com/ChetanSawale/uk-online-retail-analytics) · [telecom-churn-prediction](https://github.com/ChetanSawale/telecom-churn-prediction) · [social-buzz-data-analytics](https://github.com/ChetanSawale/social-buzz-data-analytics)
 
-## Experience
+<h3 align="center">GitHub Contribution Chart</h3>
+
+<div align="center">
+  <a href="https://github.com/ChetanSawale">
+    <img src="https://ghchart.rshah.org/ChetanSawale" alt="ChetanSawale's GitHub Contribution Chart">
+  </a>
+</div>
+
+## 💼 Experience
 
 - **Reports Executive — Hitachi Cash Management Services** (May 2026 – Present): daily/weekly operational reporting, system-data monitoring, discrepancy investigation and escalation, data validation for banking operations.
 - **Intern — ACG Associate Capsules Pvt. Ltd.** (Jun 2024 – Aug 2024): operational tracking, workflow documentation, process monitoring.
 
-## Education & Training
+## 🎓 Education & Training
 
 - **B.Tech, Computer Engineering** — St. John College of Engineering and Management, University of Mumbai (2026), GPA 7.6
 - **DevOps and Cloud Course** — Skillected Academy (currently pursuing): Linux, networking, Git/GitHub, automation, Docker, CI/CD, cloud fundamentals
 
-## Let's Connect
+<h2 align="center">📫 Let's Connect!</h2>
 
-sawalechetan102@gmail.com · [LinkedIn (DevOps)](https://www.linkedin.com/in/chetan-sawale-577b63438) · [LinkedIn (Data Analyst)](https://www.linkedin.com/in/chetan-sawale-b86379435) · [LinkedIn (Full Stack)](https://www.linkedin.com/in/chetan-sawale-0a3917321) · [Portfolio](https://chetansawale.github.io/devops-portfolio-v2/)
+<div align="center">
+  <a href="mailto:sawalechetan102@gmail.com">sawalechetan102@gmail.com</a>
+  ·
+  <a href="https://www.linkedin.com/in/chetan-sawale-577b63438">LinkedIn (DevOps)</a>
+  ·
+  <a href="https://www.linkedin.com/in/chetan-sawale-b86379435">LinkedIn (Data Analyst)</a>
+  ·
+  <a href="https://www.linkedin.com/in/chetan-sawale-0a3917321">LinkedIn (Full Stack)</a>
+  ·
+  <a href="https://chetansawale.github.io/devops-portfolio-v2/">Portfolio</a>
+</div>
+
+<br>
+
+<div align="center">
+
+⭐️ From ChetanSawale — let's innovate together!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
