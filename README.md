@@ -65,6 +65,13 @@ I build real, working projects — a Linux homelab monitoring stack with 7 valid
 
 ## 📌 Featured Projects
 
+### 🔴 Live now: PaperBull — Paper Trading
+
+<a href="https://trader-frontend-l831.onrender.com"><img src="https://raw.githubusercontent.com/ChetanSawale/ChetanSawale/main/assets/paperbull-preview.png" alt="PaperBull live app preview" width="100%"></a>
+
+Paper-trading app — Fastify backend, React/Vite frontend, Docker Compose services incl. Postgres + Prometheus, live on Render. [Live app](https://trader-frontend-l831.onrender.com) · [Repo](https://github.com/ChetanSawale/Traders_app)
+
+
 <div align="center">
   <table>
     <tr>
