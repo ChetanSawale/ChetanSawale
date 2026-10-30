@@ -45,11 +45,18 @@ I build real, working projects — a Linux homelab monitoring stack with 7 valid
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,vscode" alt="Backend and tools" />
 </div>
 
+<h3 align="center">IT Support</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,powershell" alt="IT support tools" />
+</div>
+
 <p align="center">
 <strong>Linux & Shell:</strong> Linux, Ubuntu, WSL, Bash, shell scripting, file permissions & ownership, users/groups, processes, disk usage, grep / find / awk / sed, pipes & redirection<br>
 <strong>DevOps & Cloud:</strong> Docker, Dockerfiles, Docker Compose, Git, GitHub, CI/CD fundamentals (Jenkins declarative pipelines), AWS EC2, SSH, deployment concepts<br>
 <strong>Monitoring:</strong> Prometheus, Grafana, Alertmanager<br>
 <strong>Networking:</strong> TCP/IP, IP addressing, ports, DNS, HTTP/HTTPS<br>
+<strong>IT Support:</strong> Windows 10/11, PowerShell, first-line troubleshooting, incident triage & escalation, user support, connectivity & DNS basics, Excel reporting<br>
 <strong>Backend (working knowledge):</strong> JavaScript, Node.js, Express.js, REST APIs, JWT authentication, MongoDB
 </p>
 
@@ -105,6 +112,7 @@ Paper-trading app — Fastify backend, React/Vite frontend, Docker Compose servi
 |---|---|---|
 | [linux-monitoring-lab](https://github.com/ChetanSawale/linux-monitoring-lab) | Homelab monitoring stack with 7 validated alert rules, provisioned Grafana dashboard, and an incident runbook with drills | Prometheus, Grafana, Alertmanager, Docker Compose, Linux |
 | [linux-server-health-check](https://github.com/ChetanSawale/linux-server-health-check) | Bash toolkit: CPU/memory/disk thresholds, top processes, service status, failed SSH logins, timestamped health reports | Bash, Linux |
+| [it-support-toolkit](https://github.com/ChetanSawale/it-support-toolkit) | First-line diagnostics for Windows & Linux workstations: system, disk, network and service checks with timestamped ticket-ready reports, plus a triage checklist | Bash, PowerShell, Windows, Linux |
 | [devops-mcp-server](https://github.com/ChetanSawale/devops-mcp-server) | MCP server with 8 tools that lets AI assistants inspect/manage Linux servers — system stats, Docker, systemd, logs, EC2 | TypeScript, Node.js, Docker |
 | [student_task_manager_devpro](https://github.com/ChetanSawale/student_task_manager_devpro) | Full-stack task manager with a Jenkins declarative pipeline: checkout → Docker login → build → push backend & frontend images | Jenkins, Docker, Node.js, Express, MongoDB |
 | [eksudhaar](https://github.com/ChetanSawale/eksudhaar) | EkSudhaar — free pre-filing simulator that scores identity-correction applications against a 28-rule knowledge base (Code for India hackathon) | TypeScript |
