@@ -78,6 +78,12 @@ I build real, working projects — a Linux homelab monitoring stack with 7 valid
 
 Paper-trading app — Fastify backend, React/Vite frontend, Docker Compose services incl. Postgres + Prometheus, live on Render. [Live app](https://trader-frontend-l831.onrender.com) · [Repo](https://github.com/ChetanSawale/Traders_app)
 
+### 🔴 Live now: AsuraGPT — Conversational AI with Long-Term Memory
+
+<a href="https://asuragpt-2.onrender.com"><img src="https://raw.githubusercontent.com/ChetanSawale/ChetanSawale/main/assets/asuragpt-preview.png" alt="AsuraGPT landing page preview" width="100%"></a>
+
+Conversational AI assistant with long-term memory — RAG over Pinecone with embeddings, Node.js/Express backend, MongoDB, real-time chat over WebSockets. [Live app](https://asuragpt-2.onrender.com) · [Repo](https://github.com/ChetanSawale/AsuraGPT)
+
 
 <div align="center">
   <table>
